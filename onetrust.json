@@ -1,4 +1,6 @@
-[
+{
+  "assessmentId": "9c4d1e5f-2345-6789-abcd-123456789abc",
+  "workflows": [
     {
       "workflowId": "workflow-1001",
       "name": "Vendor Risk Assessment - Annual Review",
@@ -64,4 +66,7 @@
           "completedDate": null
         }
       ]
-
+    }
+  ],
+  "retrievedAt": "2024-03-20T12:00:00Z"
+}
