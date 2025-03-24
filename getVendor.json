@@ -1,0 +1,47 @@
+{
+  "vendorId": "a1b2c3d4-5678-90ab-cdef-1234567890ab",
+  "vendorName": "Westfield Insurance",
+  "vendorType": "Insurance Provider",
+  "status": "Active",
+  "riskLevel": "Medium",
+  "contract": {
+    "contractId": "cont-7890-1234-abcd-5678efghijkl",
+    "effectiveDate": "2024-01-01",
+    "expiryDate": "2026-12-31",
+    "status": "Active",
+    "renewalDate": "2026-11-30"
+  },
+  "contactDetails": {
+    "primaryContact": {
+      "name": "Jane Smith",
+      "email": "jane.smith@westfieldgrp.com",
+      "phone": "+1-800-243-0210"
+    },
+    "supportContact": {
+      "name": "Westfield Support",
+      "email": "support@westfieldgrp.com",
+      "phone": "+1-800-243-0210"
+    }
+  },
+  "address": {
+    "street": "One Park Circle",
+    "city": "Westfield Center",
+    "state": "OH",
+    "postalCode": "44251",
+    "country": "USA"
+  },
+  "servicesProvided": [
+    "Commercial Property Insurance",
+    "Auto Insurance",
+    "General Liability Insurance"
+  ],
+  "lastReviewDate": "2024-10-15",
+  "nextReviewDate": "2025-10-15",
+  "tags": [
+    "insurance",
+    "compliance",
+    "third-party"
+  ],
+  "createdAt": "2021-04-22T14:30:00Z",
+  "updatedAt": "2024-10-20T10:12:34Z"
+}
