@@ -1,0 +1,14 @@
+{
+  "id": "edge-1-2",
+  "source": "step-1",
+  "target": "step-2",
+  "mainStat": "",
+  "secondaryStat": ""
+},
+{
+  "id": "edge-2-3",
+  "source": "step-2",
+  "target": "step-3",
+  "mainStat": "",
+  "secondaryStat": ""
+}
