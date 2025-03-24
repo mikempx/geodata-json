@@ -37,7 +37,6 @@
             }
           ],
           "status": "Completed",
-          "status__color": 1,
           "completedDate": "2024-03-15T10:45:30Z"
         },
         {
@@ -51,7 +50,6 @@
             }
           ],
           "status": "Pending Approval",
-          "status__color": 0.5,
           "completedDate": null
         },
         {
@@ -65,7 +63,6 @@
             }
           ],
           "status": "Not Started",
-          "status__color": 0,
           "completedDate": null
         }
       ]
