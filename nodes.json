@@ -1,0 +1,27 @@
+{
+  "id": "step-1",
+  "title": "Initial Assessment Submission",
+  "subTitle": "Completed",
+  "mainStat": "Mike Anderson",
+  "secondaryStat": "2024-03-15",
+  "arc__status": 1,
+  "arc__status_color": "green"
+},
+{
+  "id": "step-2",
+  "title": "Risk Team Review",
+  "subTitle": "Pending Approval",
+  "mainStat": "Sarah Johnson",
+  "secondaryStat": "",
+  "arc__status": 0.5,
+  "arc__status_color": "yellow"
+},
+{
+  "id": "step-3",
+  "title": "Compliance Approval",
+  "subTitle": "Not Started",
+  "mainStat": "Alex Martin",
+  "secondaryStat": "",
+  "arc__status": 0,
+  "arc__status_color": "gray"
+}
