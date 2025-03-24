@@ -1,19 +1,72 @@
 {
-  "approvalStageDetails": [
+  "assessmentId": "9c4d1e5f-2345-6789-abcd-123456789abc",
+  "workflows": [
     {
-      "badgeColor": "UnderReview",
-      "stageId": "1178fb6e-0386-4b53-8110-b7d21974aedc",
-      "stageName": "Legal Review",
-      "stageNameKey": "LegalReview"
-    },
-    {
-      "badgeColor": "UnderReview",
-      "stageId": "1178fb6e-0386-4b53-8110-b7d21974aedd",
-      "stageName": "Privacy Review",
-      "stageNameKey": "privacyReview"
+      "workflowId": "workflow-1001",
+      "name": "Vendor Risk Assessment - Annual Review",
+      "status": "In Progress",
+      "initiatedBy": {
+        "userId": "user-9876",
+        "name": "John Doe",
+        "email": "john.doe@westfieldgrp.com"
+      },
+      "initiatedDate": "2024-03-10T14:22:00Z",
+      "dueDate": "2024-04-10T23:59:59Z",
+      "completedDate": null,
+      "currentStep": {
+        "stepId": "step-2",
+        "stepName": "Risk Team Review",
+        "assignedTo": [
+          {
+            "userId": "user-1234",
+            "name": "Sarah Johnson",
+            "email": "sarah.johnson@westfieldgrp.com"
+          }
+        ],
+        "status": "Pending Approval"
+      },
+      "steps": [
+        {
+          "stepId": "step-1",
+          "stepName": "Initial Assessment Submission",
+          "assignedTo": [
+            {
+              "userId": "user-5678",
+              "name": "Mike Anderson",
+              "email": "mike.anderson@westfieldgrp.com"
+            }
+          ],
+          "status": "Completed",
+          "completedDate": "2024-03-15T10:45:30Z"
+        },
+        {
+          "stepId": "step-2",
+          "stepName": "Risk Team Review",
+          "assignedTo": [
+            {
+              "userId": "user-1234",
+              "name": "Sarah Johnson",
+              "email": "sarah.johnson@westfieldgrp.com"
+            }
+          ],
+          "status": "Pending Approval",
+          "completedDate": null
+        },
+        {
+          "stepId": "step-3",
+          "stepName": "Compliance Approval",
+          "assignedTo": [
+            {
+              "userId": "user-4321",
+              "name": "Alex Martin",
+              "email": "alex.martin@westfieldgrp.com"
+            }
+          ],
+          "status": "Not Started",
+          "completedDate": null
+        }
+      ]
     }
   ],
-  "workflowId": "c63372b0-41fe-44d3-a3a9-eeabdc054cbe",
-  "workflowName": "Westfield's Key Workflow",
-  "workflowNameKey": "workflow1"
+  "retrievedAt": "2024-03-20T12:00:00Z"
 }
