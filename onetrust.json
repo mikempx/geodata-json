@@ -16,4 +16,23 @@
   "workflowId": "c63372b0-41fe-44d3-a3a9-eeabdc054cbe",
   "workflowName": "Westfield's Key Workflow",
   "workflowNameKey": "workflow1"
+},
+{
+  "approvalStageDetails": [
+    {
+      "badgeColor": "UnderReview",
+      "stageId": "1178fb6e-1111-4b53-8110-b7d21974aedc",
+      "stageName": "Legal Review",
+      "stageNameKey": "LegalReview"
+    },
+    {
+      "badgeColor": "UnderReview",
+      "stageId": "1178fb6e-1111-4b53-8110-b7d21974aedd",
+      "stageName": "Privacy Review",
+      "stageNameKey": "privacyReview"
+    }
+  ],
+  "workflowId": "c63372b0-41fe-44d3-a3a9-eeabdc054cbe",
+  "workflowName": "Westfield's Less Important Workflow",
+  "workflowNameKey": "workflow2"
 }
