@@ -1,0 +1,19 @@
+{
+  "approvalStageDetails": [
+    {
+      "badgeColor": "UnderReview",
+      "stageId": "1178fb6e-0386-4b53-8110-b7d21974aedc",
+      "stageName": "Legal Review",
+      "stageNameKey": "LegalReview"
+    },
+    {
+      "badgeColor": "UnderReview",
+      "stageId": "1178fb6e-0386-4b53-8110-b7d21974aedd",
+      "stageName": "Privacy Review",
+      "stageNameKey": "privacyReview"
+    }
+  ],
+  "workflowId": "c63372b0-41fe-44d3-a3a9-eeabdc054cbe",
+  "workflowName": "workflow1",
+  "workflowNameKey": "workflow1"
+}
