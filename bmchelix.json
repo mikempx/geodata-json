@@ -1,0 +1,82 @@
+{
+  "entries": [
+    {
+      "values": {
+        "Incident Number": "INC000000100001",
+        "Status": "Assigned",
+        "Summary": "User cannot connect to VPN",
+        "Priority": "High",
+        "Reported Date": "2025-06-07T08:12:00Z",
+        "Submitter": "alice.johnson",
+        "Assigned Group": "Network Support",
+        "Assignee": "mike.green",
+        "Description": "VPN client fails with authentication error.",
+        "Status Reason": "Assigned",
+        "Last Modified Date": "2025-06-08T10:03:00Z"
+      }
+    },
+    {
+      "values": {
+        "Incident Number": "INC000000100002",
+        "Status": "In Progress",
+        "Summary": "Printer not working on 3rd floor",
+        "Priority": "Medium",
+        "Reported Date": "2025-06-06T15:23:00Z",
+        "Submitter": "bob.smith",
+        "Assigned Group": "Facilities IT",
+        "Assignee": "laura.hill",
+        "Description": "Printer is displaying error code E35.",
+        "Status Reason": "Working",
+        "Last Modified Date": "2025-06-08T09:30:00Z"
+      }
+    },
+    {
+      "values": {
+        "Incident Number": "INC000000100003",
+        "Status": "Pending",
+        "Summary": "Software installation request",
+        "Priority": "Low",
+        "Reported Date": "2025-06-05T11:45:00Z",
+        "Submitter": "carol.nguyen",
+        "Assigned Group": "Desktop Support",
+        "Assignee": "eric.stone",
+        "Description": "Request to install Adobe Photoshop for design work.",
+        "Status Reason": "Waiting for Approval",
+        "Last Modified Date": "2025-06-07T17:50:00Z"
+      }
+    },
+    {
+      "values": {
+        "Incident Number": "INC000000100004",
+        "Status": "In Progress",
+        "Summary": "Slow Wi-Fi in conference room",
+        "Priority": "Medium",
+        "Reported Date": "2025-06-08T07:00:00Z",
+        "Submitter": "daniel.lee",
+        "Assigned Group": "Network Support",
+        "Assignee": "susan.baker",
+        "Description": "Connection drops intermittently during meetings.",
+        "Status Reason": "Investigating",
+        "Last Modified Date": "2025-06-08T08:10:00Z"
+      }
+    },
+    {
+      "values": {
+        "Incident Number": "INC000000100005",
+        "Status": "Assigned",
+        "Summary": "Outlook keeps crashing on startup",
+        "Priority": "High",
+        "Reported Date": "2025-06-08T06:30:00Z",
+        "Submitter": "heather.tan",
+        "Assigned Group": "Application Support",
+        "Assignee": "omar.jenkins",
+        "Description": "Crash message shown after entering password.",
+        "Status Reason": "Assigned",
+        "Last Modified Date": "2025-06-08T06:55:00Z"
+      }
+    }
+  ],
+  "metadata": {
+    "totalSize": 5
+  }
+}
